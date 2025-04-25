@@ -1,0 +1,32 @@
+{
+  "headings": [
+    {
+      "title": "Operations Document",
+      "level": 1
+    },
+    {
+      "title": "Introduction",
+      "level": 2
+    },
+    {
+      "title": "Operations Overview",
+      "level": 2
+    },
+    {
+      "title": "System Components",
+      "level": 2
+    },
+    {
+      "title": "Data Flow",
+      "level": 2
+    },
+    {
+      "title": "Deployment Architecture",
+      "level": 2
+    },
+    {
+      "title": "Security Considerations",
+      "level": 2
+    }
+  ]
+}

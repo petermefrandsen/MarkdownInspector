@@ -1,0 +1,28 @@
+{
+  "headings": [
+    {
+      "title": "Architecture Document",
+      "level": 1
+    },
+    {
+      "title": "Introduction",
+      "level": 2
+    },
+    {
+      "title": "Architecture Overview",
+      "level": 2
+    },
+    {
+      "title": "Components",
+      "level": 2
+    },
+    {
+      "title": "Deployment",
+      "level": 2
+    },
+    {
+      "title": "Security Considerations",
+      "level": 2
+    }
+  ]
+}

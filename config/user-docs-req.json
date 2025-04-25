@@ -1,0 +1,32 @@
+{
+  "headings": [
+    {
+      "title": "User Document",
+      "level": 1
+    },
+    {
+      "title": "Introduction",
+      "level": 2
+    },
+    {
+      "title": "User Overview",
+      "level": 2
+    },
+    {
+      "title": "User Interface",
+      "level": 2
+    },
+    {
+      "title": "User Experience",
+      "level": 2
+    },
+    {
+      "title": "User Scenarios",
+      "level": 2
+    },
+    {
+      "title": "Security Considerations",
+      "level": 2
+    }
+  ]
+}

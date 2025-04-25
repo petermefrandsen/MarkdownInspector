@@ -1,0 +1,32 @@
+{
+  "headings": [
+    {
+      "title": "Header abc",
+      "level": 1
+    },
+    {
+      "title": "Header 1",
+      "level": 2
+    },
+    {
+      "title": "Header 2",
+      "level": 2
+    },
+    {
+      "title": "Header 3",
+      "level": 2
+    },
+    {
+      "title": "Header 4",
+      "level": 2
+    },
+    {
+      "title": "Header 5",
+      "level": 2
+    },
+    {
+      "title": "Header 6",
+      "level": 2
+    }
+  ]
+}
