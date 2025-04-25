@@ -178,6 +178,17 @@ pytest -v               # Run with verbose output
 pytest --cov            # Run with coverage report
 ```
 
+## Continuous Integration
+
+This project uses GitHub Actions for continuous integration. The workflow:
+
+1. Runs on every push to main/master branches and pull requests
+2. Executes all unit and integration tests
+3. Verifies code coverage is above 80%
+4. Builds the package and publishes it as a GitHub artifact
+
+You can see the workflow status in the GitHub Actions tab of the repository.
+
 ## Contributing
 
 1. Fork the repository
